@@ -1,0 +1,26 @@
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\bin\Release\Contador de interrupcao.exe.config
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\bin\Release\Contador de interrupcao.exe.manifest
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\bin\Release\Contador de interrupcao.application
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\bin\Release\Contador de interrupcao.exe
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\bin\Release\Contador de interrupcao.pdb
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\bin\Release\EntityFramework.dll
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\bin\Release\System.Data.SQLite.dll
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\bin\Release\EntityFramework.xml
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\bin\Release\System.Data.SQLite.xml
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\obj\Release\Contador de Não entendi.csproj.AssemblyReference.cache
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\obj\Release\Contador_de_interrupcao.CadastrarInterruptor.resources
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\obj\Release\Contador_de_interrupcao.FormInterrupcoes.resources
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\obj\Release\Contador_de_interrupcao.inter.resources
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\obj\Release\Contador_de_interrupcao.Inicio.resources
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\obj\Release\Contador_de_interrupcao.Properties.Resources.resources
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\obj\Release\Contador de Não entendi.csproj.GenerateResource.cache
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\obj\Release\Contador de Não entendi.csproj.CoreCompileInputs.cache
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\obj\Release\Contador de interrupcao.exe.manifest
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\obj\Release\Contador de interrupcao.application
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\obj\Release\Contador de Não entendi.csproj.CopyComplete
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\obj\Release\Contador de interrupcao.exe
+C:\Users\gioma\source\repos\Contador de interrupcao\Contador de interrupcao\obj\Release\Contador de interrupcao.pdb

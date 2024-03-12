@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contador de Não entendi", "Contador de interrupcao\Contador de Não entendi.csproj", "{33AF93E0-C8FD-45B5-B63C-97D13E167706}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupContadorNaoEntendi", "SetupContadorNaoEntendi\SetupContadorNaoEntendi.vdproj", "{58434D63-DFEB-4C3E-BDC4-D3508A2DDC3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33AF93E0-C8FD-45B5-B63C-97D13E167706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AF93E0-C8FD-45B5-B63C-97D13E167706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AF93E0-C8FD-45B5-B63C-97D13E167706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AF93E0-C8FD-45B5-B63C-97D13E167706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58434D63-DFEB-4C3E-BDC4-D3508A2DDC3A}.Debug|Any CPU.ActiveCfg = Debug
+		{58434D63-DFEB-4C3E-BDC4-D3508A2DDC3A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F929ECBB-3EE3-4560-83C3-AB5B4841380A}
+	EndGlobalSection
+EndGlobal
